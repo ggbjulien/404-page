@@ -43,3 +43,8 @@ body {
     background-size: cover;
 
 }
+
+
+.error:hover {
+     animation: flash 1s;
+}
